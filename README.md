@@ -14,7 +14,6 @@ HTML, CSS, JavaScript
 ![Home Page](https://raw.githubusercontent.com/Aswini1109/ClinicAppoinmentBookingweb/main/screenshots/home.png)
 ![Booking Page](https://raw.githubusercontent.com/Aswini1109/ClinicAppoinmentBookingweb/main/screenshots/booking.png)
 ![Admin Page](https://raw.githubusercontent.com/Aswini1109/ClinicAppoinmentBookingweb/main/screenshots/admin.png)
-
 ## How to Run
 1. Download all files
 2. Open index.html in browser
