@@ -11,9 +11,9 @@ A simple web app for clinics to manage patient appointments online.
 HTML, CSS, JavaScript
 
 ## Screenshots
-![Home Page](screenshots/home.png)
-![Booking Page](screenshots/booking.png)
-![Admin Page](screenshots/admin.png)
+![Home Page](home.png)
+![Booking Page](booking.png)
+![Admin Page](admin.png)
 
 ## How to Run
 1. Download all files
